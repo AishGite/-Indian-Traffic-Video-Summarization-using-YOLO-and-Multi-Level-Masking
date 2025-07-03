@@ -156,20 +156,6 @@ curl -X POST http://127.0.0.1:5000/api/process \
 
 ---
 
-## 🔧 API Reference
-
-### Endpoints
-
-| Endpoint | Method | Description |
-|----------|--------|-------------|
-| `/api/classes` | GET | Get available object classes |
-| `/api/techniques` | GET | Get available masking techniques |
-| `/api/upload` | POST | Upload video file |
-| `/api/process` | POST | Process video with selected parameters |
-| `/api/video/<filename>` | GET | Download processed video |
-| `/api/detections/<filename>` | GET | Get detection results |
-| `/api/status/<job_id>` | GET | Check processing status |
-
 ### Object Classes
 - `trak` (truck)
 - `cyclist`
@@ -200,10 +186,10 @@ curl -X POST http://127.0.0.1:5000/api/process \
 ## 📊 Examples
 
 ### Before Processing
-![Original Video](https://via.placeholder.com/400x300/4CAF50/FFFFFF?text=Original+Traffic+Video)
+![Original Video](https://github.com/AishGite/-Indian-Traffic-Video-Summarization-using-YOLO-and-Multi-Level-Masking/blob/5e31d8d1e2ec2a4739633d67a3f99a23ffc0f579/uploads/6fefef0a-52b6-4366-985a-b6c090f42148.mp4)
 
 ### After Processing - Black & White Technique
-![Processed Video](https://via.placeholder.com/400x300/2196F3/FFFFFF?text=Processed+Video+%28B%26W%29)
+![Processed Video](https://github.com/AishGite/-Indian-Traffic-Video-Summarization-using-YOLO-and-Multi-Level Masking/blob/5e31d8d1e2ec2a4739633d67a3f99a23ffc0f579/outputs/BlacknWhite.mp4)
 
 ### Sample Output Files
 The system generates various output formats:
