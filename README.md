@@ -10,7 +10,7 @@
 
 **Video processing system for intelligent traffic object detection and background manipulation**
 
-[🚀 Features](#-features) • [🛠️ Technology Stack](#️-technology-stack) • [📦 Installation](#-installation) • [🎯 Usage](#-usage) • [🔧 API Reference](#-api-reference) • [📊 Examples](#-examples)
+[🚀 Features](#-features) • [🛠️ Technology Stack](#️-technology-stack) • [📦 Installation](#-installation) • [🎯 Usage](#-usage) • [📊 Examples](#-examples)
 
 </div>
 
